@@ -121,7 +121,7 @@
 ```
 
 <h2>
-<span style="color:#FF69B4;">୨୧</span> O QUE ESTOU APRENDENDO
+<span style="color:#FF69B4;">୨୧</span> OBJETIVOS
 </h2>
 
 <div align="center">
