@@ -14,8 +14,6 @@
 
 <br>
 
-### `> KEEP LEARNING. KEEP BUILDING. KEEP GLOWING. ♡`
-
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=koayragomes&label=VISITAS&color=FF69B4&style=for-the-badge&labelColor=1A0015" />
@@ -105,7 +103,7 @@
 
 ```text
 ╭─────────────────────────────────────────────╮
-│              🎀 CURRENT FOCUS 🎀             │
+│              🎀 CURRENT FOCUS 🎀            │
 ├─────────────────────────────────────────────┤
 │                                             │
 │   ♡ Lógica de programação                   │
@@ -118,5 +116,22 @@
 │   → Desenvolvimento de sistemas             │
 │   → Projetos pessoais                       │
 │   → Novas tecnologias                       │
+│                                             │
+╰─────────────────────────────────────────────╯
+
+
+╭─────────────────────────────────────────────╮
+│                                             │
+│              🎀  MY GOALS  🎀               │
+│                                             │
+├─────────────────────────────────────────────┤
+│                                             │
+│   ♡  Construir meu portfólio                │
+│   ♡  Aprimorar Git e GitHub                 │
+│   ♡  Evoluir em programação                 │
+│   ♡  Desenvolver projetos próprios          │
+│   ♡  Aprender novas tecnologias             │
+│   ♡  Aprofundar meus conhecimentos em TI    │
+│   ♡  Crescer profissionalmente              │
 │                                             │
 ╰─────────────────────────────────────────────╯
