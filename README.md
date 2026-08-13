@@ -73,7 +73,7 @@
 ---
 
 <h2>
-<span style="color:#FF69B4;">୨୧</span> ÁREAS DE INTERESSE
+<span style="color:#FF69B4;">💻</span> ÁREAS DE INTERESSE
 </h2>
 
 <div align="center">
@@ -83,7 +83,7 @@
 🗄️ <strong>Banco de Dados</strong>  
 🌐 <strong>Redes de Computadores</strong>  
 🎀 <strong>Tecnologia</strong>  
-✨ <strong>Aprendizado Contínuo</strong>
+✨ <strong>Sistemas de Informação</strong>
 
 </div>
 
