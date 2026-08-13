@@ -6,7 +6,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Olá%2C+seja+bem-vindo(a)!+%E2%99%A1;Estudante+de+Informática+%7C+IFPA+%F0%9F%8E%80;Aprendendo%2C+criando+e+evoluindo.;Transformando+ideias+em+código+%E2%9C%A8" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=♡%20LEARNING%20%7C%20CREATING%20%7C%20CODING%20♡&fontSize=18&fontColor=FF69B4&animation=twinkling&fontAlignY=50"/>
+
+</div>
 
 <br><br>
 
