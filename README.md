@@ -8,8 +8,6 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0010,25:250018,50:5C0A45,75:C21875,100:FF69B4&height=180&section=footer&animation=twinkling"/>
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+%E2%99%A1;Keep+learning%2C+keep+building+%E2%9C%A8;See+you+in+the+next+commit+%F0%9F%8E%80"/>
