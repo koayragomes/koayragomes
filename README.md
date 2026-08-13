@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=koayragomes&label=VISITAS&color=FF69B4&style=for-the-badge&labelColor=1A0015" />
+<img src="https://komarev.com/ghpvc/?username=koayragomes&label=VISITAS&color=FF69B4&style=for-the-badge&labelColor=FF69B4" />
 
 </div>
 
