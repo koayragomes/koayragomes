@@ -4,11 +4,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0015,35:4a0a3d,70:8b145f,100:ff69b4&height=240&section=header&text=KOAYRA%20GOMES&fontSize=50&fontColor=FFB6E6&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descAlignY=58&descSize=16&descColor=FFD6F2"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Olá%2C+seja+bem-vindo(a)!+%E2%99%A1;Estudante+de+Informática+%7C+IFPA+%F0%9F%8E%80;Aprendendo%2C+criando+e+evoluindo.;Transformando+ideias+em+código+%E2%9C%A8" />
+<div align="center">
 
 <br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0010,25:250018,50:5C0A45,75:C21875,100:FF69B4&height=180&section=footer&animation=twinkling"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+%E2%99%A1;Keep+learning%2C+keep+building+%E2%9C%A8;See+you+in+the+next+commit+%F0%9F%8E%80"/>
+
+<br>
+
+### `> KEEP LEARNING. KEEP BUILDING. KEEP GLOWING. ♡`
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=koayragomes&label=VISITAS&color=FF69B4&style=for-the-badge&labelColor=1A0015" />
 
