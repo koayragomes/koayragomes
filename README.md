@@ -17,7 +17,7 @@
 ---
 
 <h2>
-<span style="color:#FF69B4;">୨୧</span> SOBRE MIM
+<span style="color:#FF69B4;">🎀</span> SOBRE MIM
 </h2>
 
 <p>
@@ -44,7 +44,7 @@
 ---
 
 <h2>
-<span style="color:#FF69B4;">୨୧</span> TECNOLOGIAS & FERRAMENTAS
+<span style="color:#FF69B4;">🎀</span> TECNOLOGIAS & FERRAMENTAS
 </h2>
 
 <div align="center">
@@ -73,7 +73,7 @@
 ---
 
 <h2>
-<span style="color:#FF69B4;">💻</span> ÁREAS DE INTERESSE
+<span style="color:#FF69B4;">🎀</span> ÁREAS DE INTERESSE
 </h2>
 
 <div align="center">
@@ -90,7 +90,7 @@
 ---
 
 <h2>
-<span style="color:#FF69B4;">୨୧</span> O QUE ESTOU APRENDENDO
+<span style="color:#FF69B4;">🎀</span> O QUE ESTOU APRENDENDO
 </h2>
 
 <div align="center">
