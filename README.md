@@ -96,7 +96,7 @@
 ---
 
 <h2>
-<span style="color:#FF69B4;">୨୧</span> O QUE ESTOU APRENDENDO
+<span style="color:##FFC0CB;">୨୧</span> O QUE ESTOU APRENDENDO
 </h2>
 
 <div align="center">
@@ -120,15 +120,16 @@
 ╰─────────────────────────────────────────────╯
 ```
 
+---
+
 <h2>
-<span style="color:#FF69B4;">୨୧</span> OBJETIVOS
+<span style="color:##FFC0CB;">୨୧</span> OBJETIVOS
 </h2>
 
 <div align="center">
 
 ```text
 ╭─────────────────────────────────────────────╮
-│                                             │
 │              🎀  MY GOALS  🎀               │        
 ├─────────────────────────────────────────────┤
 │                                             │
