@@ -118,12 +118,18 @@
 │   → Novas tecnologias                       │
 │                                             │
 ╰─────────────────────────────────────────────╯
+```
 
+<h2>
+<span style="color:#FF69B4;">୨୧</span> O QUE ESTOU APRENDENDO
+</h2>
 
+<div align="center">
+
+```text
 ╭─────────────────────────────────────────────╮
 │                                             │
-│              🎀  MY GOALS  🎀               │
-│                                             │
+│              🎀  MY GOALS  🎀               │        
 ├─────────────────────────────────────────────┤
 │                                             │
 │   ♡  Construir meu portfólio                │
