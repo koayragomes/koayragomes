@@ -2,7 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0015,35:4a0a3d,70:8b145f,100:ff69b4&height=240&section=header&text=KOAYRA%20GOMES&fontSize=50&fontColor=FFB6E6&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descAlignY=58&descSize=16&descColor=FFD6F2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0010,25:250018,50:5C0A45,75:C21875,100:FF69B4&height=260&section=header&text=KOAYRA%20GOMES&fontSize=52&fontColor=FFD6F2&animation=twinkling&fontAlignY=38&desc=INFORMATION%20TECHNOLOGY%20STUDENT%20%E2%9C%A6&descAlignY=62&descSize=17&descColor=FFB6E6"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&height=60&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+%E2%99%A1;Estudante+de+Inform%C3%A1tica+%7C+IFPA+%F0%9F%8E%80;Aprendendo%2C+criando+e+evoluindo.;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8;Building+my+future+one+line+at+a+time+%E2%99%A1"/>
+
+</div>
 
 <div align="center">
 
@@ -118,27 +124,4 @@
 │   → Novas tecnologias                       │
 │                                             │
 ╰─────────────────────────────────────────────╯
-```
 
----
-
-<h2>
-<span style="color:##FFC0CB;">୨୧</span> OBJETIVOS
-</h2>
-
-<div align="center">
-
-```text
-╭─────────────────────────────────────────────╮
-│              🎀  MY GOALS  🎀               │        
-├─────────────────────────────────────────────┤
-│                                             │
-│   ♡  Construir meu portfólio                │
-│   ♡  Aprimorar Git e GitHub                 │
-│   ♡  Evoluir em programação                 │
-│   ♡  Desenvolver projetos próprios          │
-│   ♡  Aprender novas tecnologias             │
-│   ♡  Aprofundar meus conhecimentos em TI    │
-│   ♡  Crescer profissionalmente              │
-│                                             │
-╰─────────────────────────────────────────────╯
