@@ -1,201 +1,178 @@
+# 🎀 Olá 🎀
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B2B,45:6D3F67,75:E89AAE,100:F8C8D8&height=220&section=header&text=KOAYRA%20GOMES&fontSize=48&fontColor=FFEAF1&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT%20%7C%20IFPA&descAlignY=58&descSize=16&descColor=FFF4F7"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=E89AAE&center=true&vCenter=true&width=700&lines=Initializing+Koayra's+profile...;Welcome+to+my+digital+workspace.;Information+Technology+Student+%7C+IFPA;Learning%2C+building+and+evolving.;Turning+ideas+into+code+%E2%9C%A8" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=koayragomes&label=PROFILE%20VIEWS&color=E89AAE&style=for-the-badge" />
-
-</div>
-
----
-
-## `01 // SYSTEM PROFILE` 🎀
-
-<div align="center">
-
-> **STATUS:** `ONLINE`  
-> **USER:** `KOAYRA GOMES`  
-> **ROLE:** `INFORMATION TECHNOLOGY STUDENT`  
-> **ENVIRONMENT:** `IFPA`  
-> **FOCUS:** `SOFTWARE DEVELOPMENT`
-
-</div>
-
-### 👩🏻‍💻 Sobre mim
-
-Olá! Eu sou **Koayra Gomes**, estudante de **Informática no IFPA**. 🌷
-
-Tenho interesse por tecnologia, programação e desenvolvimento de projetos, e uso este espaço para registrar minha evolução, experimentar novas ideias e construir meu portfólio.
-
-```text
-koayra@github:~$ whoami
-
-> Information Technology Student
-> IFPA
-> Learning programming
-> Building projects
-> Exploring technology
-
-koayra@github:~$ echo "welcome to my little digital world ♡"
-
-welcome to my little digital world ♡
-````
-
----
-
-## `02 // TOOLS & TECHNOLOGIES` 💻
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,python,html,java,linux,vscode,github" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0015,35:4a0a3d,70:8b145f,100:ff69b4&height=240&section=header&text=KOAYRA%20GOMES&fontSize=50&fontColor=FFB6E6&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descAlignY=58&descSize=16&descColor=FFD6F2"/>
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F8C8D8?style=for-the-badge&logo=javascript&logoColor=2B1B2B" />
-<img src="https://img.shields.io/badge/Python-F8C8D8?style=for-the-badge&logo=python&logoColor=2B1B2B" />
-<img src="https://img.shields.io/badge/HTML-F8C8D8?style=for-the-badge&logo=html5&logoColor=2B1B2B" />
-<img src="https://img.shields.io/badge/Java-F8C8D8?style=for-the-badge&logo=openjdk&logoColor=2B1B2B" />
-<img src="https://img.shields.io/badge/Linux-F8C8D8?style=for-the-badge&logo=linux&logoColor=2B1B2B" />
-<img src="https://img.shields.io/badge/VS%20Code-F8C8D8?style=for-the-badge&logo=visualstudiocode&logoColor=2B1B2B" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=♡%20LEARNING%20%7C%20CREATING%20%7C%20CODING%20♡&fontSize=18&fontColor=FF69B4&animation=twinkling&fontAlignY=50"/>
+
+</div>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=koayragomes&label=VISITAS&color=FF69B4&style=for-the-badge&labelColor=FF69B4" />
 
 </div>
 
 ---
 
-## `03 // CURRENT OBJECTIVES` 🌸
+<h2>
+<span style="color:#FF69B4;">🎀</span> SOBRE MIM
+</h2>
+
+<p>
+🎀 Estudante do <strong>3º ano do Ensino Médio Integrado ao Técnico em Informática no IFPA</strong>.
+</p>
+
+<p>
+💻 Tenho interesse em <strong>programação, desenvolvimento de software e tecnologia</strong>.
+</p>
+
+<p>
+🌷 Atualmente estou aprimorando meus conhecimentos em 
+<strong>Python, Java, MySQL, redes e desenvolvimento de sistemas</strong>.
+</p>
+
+<p>
+🧸 Gosto de aprender colocando a mão na massa, criando projetos e descobrindo novas formas de transformar ideias em código.
+</p>
+
+<p>
+💗 Este perfil é um pequeno registro da minha evolução na tecnologia — projetos, aprendizados, erros, acertos e tudo que acontece no caminho.
+</p>
+
+---
+
+<h2>
+<span style="color:#FF69B4;">🎀</span> TECNOLOGIAS & FERRAMENTAS
+</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,linux&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-1A0015?style=for-the-badge&logo=python&logoColor=FF69B4" />
+<img src="https://img.shields.io/badge/Java-1A0015?style=for-the-badge&logo=openjdk&logoColor=FF69B4" />
+<img src="https://img.shields.io/badge/MySQL-1A0015?style=for-the-badge&logo=mysql&logoColor=FF69B4" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-1A0015?style=for-the-badge&logo=git&logoColor=FF69B4" />
+<img src="https://img.shields.io/badge/GitHub-1A0015?style=for-the-badge&logo=github&logoColor=FF69B4" />
+<img src="https://img.shields.io/badge/VS_Code-1A0015?style=for-the-badge&logo=visualstudiocode&logoColor=FF69B4" />
+<img src="https://img.shields.io/badge/Linux-1A0015?style=for-the-badge&logo=linux&logoColor=FF69B4" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1A0015?style=for-the-badge&logo=cisco&logoColor=FF69B4" />
+
+</div>
+
+---
+
+<h2>
+<span style="color:#FF69B4;">🎀</span> ÁREAS DE INTERESSE
+</h2>
+
+<div align="center">
+
+🌸 <strong>Programação</strong>  
+💻 <strong>Desenvolvimento de Software</strong>  
+🗄️ <strong>Banco de Dados</strong>  
+🌐 <strong>Redes de Computadores</strong>  
+🎀 <strong>Tecnologia</strong>  
+✨ <strong>Sistemas de Informação</strong>
+
+</div>
+
+---
+
+<h2>
+<span style="color:#FF69B4;">🎀</span> O QUE ESTOU APRENDENDO
+</h2>
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────┐
-│         ♡ CURRENT OBJECTIVES ♡           │
-├──────────────────────────────────────────┤
-│                                          │
-│  ✦ Aprender e praticar programação      │
-│  ✦ Desenvolver projetos                 │
-│  ✦ Construir meu portfólio              │
-│  ✦ Evoluir minhas habilidades em TI     │
-│  ✦ Explorar novas tecnologias           │
-│                                          │
-└──────────────────────────────────────────┘
-
-koayra@github:~$ echo "KEEP LEARNING. KEEP BUILDING."
-
-KEEP LEARNING. KEEP BUILDING. ♡
+╭─────────────────────────────────────────────╮
+│              🎀 CURRENT FOCUS 🎀            │
+├─────────────────────────────────────────────┤
+│                                             │
+│   ♡ Lógica de programação                   │
+│   ♡ Python                                  │
+│   ♡ Java                                    │
+│   ♡ Banco de dados                          │
+│   ♡ Git & GitHub                            │
+│   ♡ Redes de computadores                   │
+│                                             │
+│   → Desenvolvimento de sistemas             │
+│   → Projetos pessoais                       │
+│   → Novas tecnologias                       │
+│                                             │
+╰─────────────────────────────────────────────╯
 ```
 
 </div>
 
 ---
 
-## `04 // GITHUB ANALYTICS` ✨
+<h2>
+<span style="color:#FF69B4;">🎀</span> GITHUB ANALYTICS
+</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koayragomes&show_icons=true&hide_border=true&bg_color=2B1B2B&title_color=E89AAE&icon_color=E89AAE&text_color=FFF4F7&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koayragomes&show_icons=true&theme=dark&hide_border=true&bg_color=1A0015&title_color=FF69B4&icon_color=FF69B4&text_color=FFD6F2" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koayragomes&layout=compact&theme=dark&hide_border=true&bg_color=1A0015&title_color=FF69B4&text_color=FFD6F2" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koayragomes&layout=compact&hide_border=true&bg_color=2B1B2B&title_color=E89AAE&text_color=FFF4F7" />
+</div>
+
+<h3 align="center"><span style="color:#FF69B4;">🎀</span> CONTRIBUTION STREAK</h3>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=koayragomes&hide_border=true&background=1A0015&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FFD6F2&dates=FFD6F2&currStreakNum=FF69B4&sideNums=FF69B4" />
+
+</div>
+
+<h3 align="center"><span style="color:#FF69B4;">🎀</span> ACTIVITY GRAPH</h3>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=koayragomes&bg_color=1A0015&color=FFD6F2&line=FF69B4&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## `05 // CONTRIBUTION STREAK` 🎀
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=koayragomes&hide_border=true&background=2B1B2B&ring=E89AAE&fire=F8C8D8&currStreakLabel=E89AAE&sideLabels=E89AAE&dates=FFF4F7&currStreakNum=F8C8D8&sideNums=F8C8D8" />
-
-</div>
-
----
-
-## `06 // ACTIVITY GRAPH` 🌷
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=koayragomes&bg_color=2B1B2B&color=FFF4F7&line=E89AAE&point=F8C8D8&area=true&hide_border=true" />
-
-</div>
-
----
-
-## `07 // LITTLE ACHIEVEMENTS` 🌸
-
-<div align="center">
-
-♡ **LEARNING** → Programming & technology
-♡ **BUILDING** → Personal projects
-♡ **EXPLORING** → New technologies
-♡ **GROWING** → My skills in IT
-♡ **CREATING** → My own digital portfolio
-
-</div>
-
----
-
-## `08 // GAME OVER` 🎀
-
-<div align="center">
-
-```text
-╭──────────────────────────────────╮
-│                                  │
-│          ♡ GAME OVER ♡           │
-│                                  │
-│      ✦ THANKS FOR VISITING ✦    │
-│                                  │
-│             ₍ᐢ. .ᐢ₎             │
-│             / >♡ <\              │
-│                                  │
-│        see you again... 🌷       │
-│                                  │
-╰──────────────────────────────────╯
-```
-
-</div>
-
----
-
-## `09 // CONNECT` 💕
+<h2>
+<span style="color:#FF69B4;">🎀</span> CONNECT
+</h2>
 
 <div align="center">
 
 <a href="https://github.com/koayragomes">
-<img src="https://img.shields.io/badge/GitHub-E89AAE?style=for-the-badge&logo=github&logoColor=2B1B2B" />
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://www.linkedin.com/in/koayra-gomes-a4b458340">
-<img src="https://img.shields.io/badge/LinkedIn-E89AAE?style=for-the-badge&logo=linkedin&logoColor=2B1B2B" />
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://www.instagram.com/itzgoms_/">
-<img src="https://img.shields.io/badge/Instagram-E89AAE?style=for-the-badge&logo=instagram&logoColor=2B1B2B" />
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
 
 ♡ <b>LET'S CONNECT</b> ♡
-
-<br><br>
-
+<br>
 <sub>Keep learning · Keep building · Keep growing 🌷</sub>
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B2B,45:6D3F67,75:E89AAE,100:F8C8D8&height=120&section=footer"/>
-
-</div>
-```
