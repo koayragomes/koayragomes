@@ -128,8 +128,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koayragomes&show_icons=true&theme=dark&hide_border=true&bg_color=1A0015&title_color=FF69B4&icon_color=FF69B4&text_color=FFD6F2" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koayragomes&layout=compact&theme=dark&hide_border=true&bg_color=1A0015&title_color=FF69B4&text_color=FFD6F2" />
+<img height="180em" src="./profile/stats.svg" />
+<img height="180em" src="./profile/top-langs.svg" />
 
 </div>
 
@@ -137,7 +137,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=koayragomes&hide_border=true&background=1A0015&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FFD6F2&dates=FFD6F2&currStreakNum=FF69B4&sideNums=FF69B4" />
+<img src="./profile/streak.svg" />
 
 </div>
 
