@@ -40,6 +40,46 @@ jobs:
           theme: dark
           hide-border: true
 
+      - name: Gerar card do projeto primeiro-app-mobile
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=koayragomes&repo=primeiro-app-mobile&show_owner=true&theme=dark&hide_border=true&bg_color=1A0015&title_color=FF69B4&text_color=FFD6F2
+          path: profile/pin-primeiro-app-mobile.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar card do projeto portifolio-koayra
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=koayragomes&repo=portifolio-koayra&show_owner=true&theme=dark&hide_border=true&bg_color=1A0015&title_color=FF69B4&text_color=FFD6F2
+          path: profile/pin-portifolio-koayra.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar card do projeto projeto-appEstudante
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=koayragomes&repo=projeto-appEstudante&show_owner=true&theme=dark&hide_border=true&bg_color=1A0015&title_color=FF69B4&text_color=FFD6F2
+          path: profile/pin-projeto-appEstudante.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar card do projeto projetoAnalise
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=koayragomes&repo=projetoAnalise&show_owner=true&theme=dark&hide_border=true&bg_color=1A0015&title_color=FF69B4&text_color=FFD6F2
+          path: profile/pin-projetoAnalise.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar card do projeto ProjetoAmigos
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=koayragomes&repo=ProjetoAmigos&show_owner=true&theme=dark&hide_border=true&bg_color=1A0015&title_color=FF69B4&text_color=FFD6F2
+          path: profile/pin-ProjetoAmigos.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commitar e enviar as imagens atualizadas
         run: |
           git config user.name "github-actions[bot]"
