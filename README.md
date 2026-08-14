@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B2B,45:6D3F67,75:E89AAE,100:F8C8D8&height=220&section=header&text=KOAYRA%20GOMES&fontSize=48&fontColor=FFEAF1&animation=fadeIn&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20STUDENT%20%7C%20IFPA&descAlignY=58&descSize=16&descColor=FFF4F7"/>
