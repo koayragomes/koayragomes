@@ -152,6 +152,28 @@
 ---
 
 <h2>
+<span style="color:#FF69B4;">🎀</span> PROJETOS
+</h2>
+
+<div align="center">
+
+<img src="./profile/pin-primeiro-app-mobile.svg" />
+<img src="./profile/pin-portifolio-koayra.svg" />
+
+<br>
+
+<img src="./profile/pin-projeto-appEstudante.svg" />
+<img src="./profile/pin-projetoAnalise.svg" />
+
+<br>
+
+<img src="./profile/pin-ProjetoAmigos.svg" />
+
+</div>
+
+---
+
+<h2>
 <span style="color:#FF69B4;">🎀</span> CONNECT
 </h2>
 
