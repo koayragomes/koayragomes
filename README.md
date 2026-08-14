@@ -182,7 +182,7 @@
 <a href="https://github.com/koayragomes">
 <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/koayra-gomes-a4b458340?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="#">
